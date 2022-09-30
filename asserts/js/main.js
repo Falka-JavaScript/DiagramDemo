@@ -12,6 +12,9 @@ $(document).ready(function () {
     $('#column-diagram').click(()=>{
         controller.buildDiagram();
     });
+    $('#pie-chart').click(()=>{
+        controller.buildChartPie();
+    });
     controller.initContext();
     controller.initCanvas();
 });
