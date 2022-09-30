@@ -1,0 +1,36 @@
+{
+    "name": "Elections result",
+    "results":[{
+        "person": "Ivan Ivanenko",
+        "result": 128
+    },{
+        "person": "Person 2",
+        "result": 180
+    },{
+        "person": "Person 3",
+        "result": 70
+    },{
+        "person": "Person 4",
+        "result": 280
+    },{
+        "person": "Person 5",
+        "result": 312
+    },{
+        "person": "Person 6",
+        "result": 290
+    },{
+        "person": "Person 7",
+        "result": 75
+    },{
+        "person": "Person 8",
+        "result": 110
+    },{
+        "person": "Person 9",
+        "result": 220
+    },{
+        "person": "Person 10",
+        "result": 300
+    }
+
+]
+}
